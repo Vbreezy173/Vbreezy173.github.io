@@ -10689,11 +10689,11 @@ section {
   }
 }
 #about .about-wrapper__info-text {
-  text-align: left;
+  text-align: center;
 }
 @media (max-width: 56.25em) {
   #about .about-wrapper__info-text {
-    text-align: left;
+    text-align: center;
   }
 }
 @media (max-width: 48em) {
